@@ -1,0 +1,30 @@
+{
+  "revision": 1,
+  "atms": [],
+  "branches": [
+    {
+      "id": "AMB",
+      "name": "Ambattur",
+      "code": "AMB",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "id": "TNG",
+      "name": "T Nagar",
+      "code": "TNG",
+      "latitude": null,
+      "longitude": null
+    }
+  ],
+  "allocations": [],
+  "routes": [],
+  "routeRevision": null,
+  "settings": {
+    "totalRoutes": 45,
+    "minSize": 35,
+    "maxSize": 40,
+    "returnToBranch": true
+  },
+  "source": "Lat_Long.xlsx"
+}
